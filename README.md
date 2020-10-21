@@ -32,4 +32,4 @@ e. daftar folder yang telah di generate akan muncul pada "Daftar folder"
 4. Adding Notif for Generated file (Create, Edit, Delete)
 
 
-> written with <3 by Me Gandhi Wibowo
+> enjoy
